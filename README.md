@@ -16,3 +16,4 @@ How good is your front end code? The following exercise will help us to assess y
 * Consider all copy on the page (including those that appear to be images) may be localized into one of 20 languages and the copy  may need to change in the future based on the needs of the business
 * Please take performance into consideration.
 * Do not use any CSS frameworks.
+* Send us a Dropbox/Skydrive/whatever link to your zipped code to sonal.patel@justgiving.com but please do not send attached zip files via email.
