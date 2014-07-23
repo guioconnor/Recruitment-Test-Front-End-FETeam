@@ -5,7 +5,7 @@ JustGiving Front-end recruitment test
 
 How good is your front end code? The following exercise will help us to assess your coding skills.
 
-* Please code up to the best of your ability, the attached PSD. There is one page to create.  Build everything you see. Use what you know to build the best quality page you can!
+* Please code up to the best of your ability, the included [PSD](https://github.com/JustGiving/Recruitment-Test-Front-End-FETeam/raw/ef8ed663ec93f8b5d46f7e80a721782ac0377ae2/visual-test.psd) or [jpg](https://raw.githubusercontent.com/JustGiving/Recruitment-Test-Front-End-FETeam/ef8ed663ec93f8b5d46f7e80a721782ac0377ae2/visual-test-flat.jpg). There is one page to create.  Build everything you see. Use what you know to build the best quality page you can!
 * Create a working form that allows you to add new events and display it in the sidebar. Use an appropriate MV* framework to do this and be prepared to justify your choices. 
 * Please keep in mind we will be looking at all aspects of your end delivery, so don’t hold back anything. We are particularly interested in how you approach the exercise and understanding why you chose to do things a certain way. 
 * Feel free to ask us any questions that you would normally ask your Product Manager, UX Designer or Visual Designer before you start the exercise. 
